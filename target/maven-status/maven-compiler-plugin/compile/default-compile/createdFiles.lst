@@ -1,0 +1,12 @@
+com\errantflux\heirloom\commands\library.class
+com\errantflux\heirloom\util\log.class
+com\errantflux\heirloom\commands\cmdRecall.class
+com\errantflux\heirloom\files\gui.class
+com\errantflux\heirloom\files\serialize.class
+com\errantflux\heirloom\files\librarydata.class
+com\errantflux\heirloom\commands\cmdStore.class
+com\errantflux\heirloom\commands\cmdView.class
+com\errantflux\heirloom\commands\cmdInspect.class
+com\errantflux\heirloom\commands\tabCompleter.class
+com\errantflux\heirloom\Heirloom.class
+com\errantflux\heirloom\files\playerdata.class

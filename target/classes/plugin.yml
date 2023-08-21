@@ -1,0 +1,19 @@
+name: Heirloom
+version: '1.1'
+main: com.errantflux.heirloom.Heirloom
+api-version: 1.17
+authors: [ RelativeParadox ]
+description: Multidimentional Utilities
+website: errantflux.com
+commands:
+  heirloom:
+    description: About Heirloom
+    usage: /<command>
+  library:
+    description: A server wide Library
+  hl:
+    description: Heirloom Shortcut
+    usage: /<command>
+  log:
+    description: Logging
+    usage: /<command>
